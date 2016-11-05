@@ -4,7 +4,7 @@
 body {
     font-family: "Roboto Condensed", Arial, sans-serif;
     background-color: #fff;
-    font-size: 20px;
+    font-size: 16px;
     line-height: 1.5em;
     color: #666;
     font-weight: 300;
@@ -87,7 +87,7 @@ div.content pre {
     color: #FFF;
     overflow-x: auto;
     font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
-    font-size: 12px;
+    font-size: 20px;
     border: none;
 }
 
