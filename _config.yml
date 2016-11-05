@@ -2,7 +2,7 @@ title: Stack Problems
 description: My Personal Stack Problems
 author: David Zambrano
 github: https://github.com/davazamb
-about: I am freelance developer. Currently doing more in backend, actually in Python and Django.
+about: I am freelance I.T-Software developer; C#/.Net MVC-Core, Xamarin.
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
 
@@ -16,15 +16,17 @@ collections:
 
 social:
     - icon: fa-facebook
-      link: "#"
+      link: "https://www.facebook.com/zambrano.david"
     - icon: fa-skype
-      link: "#"
+      link: "davazamb10"
     - icon: fa-twitter
       link: "https://twitter.com/davazamb"
     - icon: fa-linkedin
       link: "https://ve.linkedin.com/in/david-zambrano"
-    - icon: fa-stack-exchange
-      link: "#"
+    - icon: fa-youtube
+      link: "youtube.com/c/DavidZambrano10"
+    - icon: fa-google-plus-squaree
+      link: "google.com/+DavidZambrano10"
 
 share:
   twitter_username: davazamb
