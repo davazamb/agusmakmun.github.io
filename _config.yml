@@ -18,7 +18,16 @@ social:
     - icon: fa-facebook
       link: "https://www.facebook.com/zambrano.david"
     - icon: fa-skype
-      link: "davazamb10@outlook.com"
+      link: <script type="text/javascript" src="https://secure.skypeassets.com/i/scom/js/skype-uri.js"></script>
+<div id="SkypeButton_Call_davazamb10_1">
+ <script type="text/javascript">
+ Skype.ui({
+ "name": "call",
+ "element": "SkypeButton_Call_davazamb10_1",
+ "participants": ["davazamb10"]
+ });
+ </script>
+</div>
     - icon: fa-twitter
       link: "https://twitter.com/davazamb"
     - icon: fa-linkedin
