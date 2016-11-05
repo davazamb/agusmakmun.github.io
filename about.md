@@ -6,4 +6,5 @@ permalink: /about/
 
 I am freelance developer. Currently doing more in backend, actually in Python and Django.
 
-email: david.zambrano10@gmail.com
+[contact me](mailto:david.zambrano10@gmail.com)
+
